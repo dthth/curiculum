@@ -1,29 +1,6 @@
 
 
-/* Exemples:
-
-p {
-	color:red;}
-
-
-
-*/
-/*
-p{
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-left: 0px;
-	margin-bottom: 0px;
-
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-left: 0px;
-	padding-bottom: 0px;
-} 
-*/
-/*body {background-image:url('montenegro.jpg');}*/
-
-body {background-image:url(DSCN3243.jpg);}
+body {background-image:url(../images/DSCN3243.jpg);}
 a:link {color:#FF1493;text-decoration:none;} 
 a:visited {color:#FF1493;text-decoration:none;}
 
@@ -32,7 +9,7 @@ h2 { color:#669999; font-family:"Verdana"}
 h3 { color:#606060; font-family:"Verdana"}
 
 #Presentation {font-family:"Courier"; text-align:center; color:#FF1493;}
-
+#Liens {border:2px solid;}
 
 .FormationsJobs {font-family:"Arial";}
 .année{color:#383838;}
