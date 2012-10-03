@@ -8,7 +8,7 @@ p {
 
 
 */
-
+/*
 p{
 	margin-top: 0px;
 	margin-right: 0px;
@@ -20,30 +20,42 @@ p{
 	padding-left: 0px;
 	padding-bottom: 0px;
 } 
+*/
+/*body {background-image:url('montenegro.jpg');}*/
 
+body {background-image:url(DSCN3243.jpg);}
+a:link {color:#FF1493;text-decoration:none;} 
+a:visited {color:#FF1493;text-decoration:none;}
 
-h1 { color:#606060; font-family:"Verdana"}
-h2 { color:#989898; font-family:"Verdana"}
+h1 { color:white; font-family:"Verdana"; text-align:center; opacity:0.64;}
+h2 { color:#669999; font-family:"Verdana"}
 h3 { color:#606060; font-family:"Verdana"}
-.Titre {font-family:"Verdana"; text-align:center; color:#383838;}
-#Presentation {font-family:"Courier"; text-align:center;}
-.SectionHeading { color:#989898; font-family:"Verdana";}
+
+#Presentation {font-family:"Courier"; text-align:center; color:#FF1493;}
+
+
 .FormationsJobs {font-family:"Arial";}
 .année{color:#383838;}
 .institution {font-weight:bold; color:#606060;}
 .niveau{color:#606060; font-weight:bold;}
 .cursus {font-style:italic;}
-	.Skillsetc {font-family:"Arial";}
+.Skillsetc {font-family:"Arial";}
 .description{margin-left:120px;} 
 .logiciels{color:#606060; font-weight:bold;}
 
-/*.GrandsSections{background-image:url(public/images/montenegro.jpg); border:2px solid; border-radius:25px; -moz-border-radius:25px; margin-left:30px; margin-right:30px; padding-left:20px; padding-right:20px; padding-bottom:20px;}
+/*.GrandsSections{background-image:url(montenegro.jpg); border:2px solid; border-radius:25px; -moz-border-radius:25px; margin-left:30px; margin-right:30px; padding-left:20px; padding-right:20px; padding-bottom:20px;}*/
+
+/*#Competences{border:2px solid; border-radius:25px; -moz-border-radius:25px; margin-left:30px; margin-right:30px; padding-left:20px; padding-right:20px; padding-bottom:20px;}*/
+
+
+.GrandsSections{background-color:white; opacity:0.64; border-radius:25px; -moz-border-radius:25px; margin-left:30px; margin-right:30px; padding-left:20px; padding-right:20px; padding-bottom:20px; width: 1000px;}
+
+
+
+/*
+.GrandsSections{background-color:#C8C8C8; border:2px solid; border-radius:25px; -moz-border-radius:25px; margin-left:30px; margin-right:30px; padding-left:20px; padding-right:20px; padding-bottom:20px;}
 */
 
 
-.GrandsSections{background-color:#C8C8C8; border:2px solid; border-radius:25px; -moz-border-radius:25px; margin-left:30px; margin-right:30px; padding-left:20px; padding-right:20px; padding-bottom:20px;}
-
-
-
-/* .Formation {background-image:url('public/images/montenegro.jpg');} */
+/*#Formation {background-image:url('montenegro.jpg');}*/
 
