@@ -1,0 +1,30 @@
+
+
+if (nom !="gabriel")  {
+
+console.log("C'est vrai! " + nom + " est différent de gabriel");
+}elseif (nom == "Clement")  {
+console.log ("On a trouvé Clement");
+}else  {console.log ("gagné");
+}
+
+
+
+if (monnom !="gabriel"){
+
+console.log("C'est vrai! " + monnom + " est différent de gabriel");
+}elseif (monnom == "Clement")  {
+console.log ("On a trouvé Clement");
+}else  {console.log ("gagné");
+}
+
+
+
+
+if (monnom =="gabriel"){
+console.log("gagné");
+}elseif (monnom == "Clement")  {
+console.log ("On a trouvé Clement");
+}else  {console.log ("C'est vrai " monnom + "est différent de gabriel");
+}
+
