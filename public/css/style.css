@@ -36,3 +36,8 @@ h3 { color:#606060; font-family:"Verdana"}
 
 /*#Formation {background-image:url('montenegro.jpg');}*/
 
+div.twitter { margin: auto; width: 300px } 
+#twitter1 { height: 200px; } 
+#twitter2 { height: 300px; } 
+#twitter3 { height: 400px; width: 200px; } 
+
