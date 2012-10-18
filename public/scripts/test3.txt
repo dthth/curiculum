@@ -1,0 +1,16 @@
+
+
+<html>
+<head>
+
+<script>
+function displayDate()
+{
+document.getElementsById("demo").innerHTML=Date();
+}
+</script>
+
+</head>
+</html>
+
+

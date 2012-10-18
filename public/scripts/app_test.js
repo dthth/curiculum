@@ -2,12 +2,14 @@
 
 function check_name(name) {    //checkname
 if (name =="gabriel") {
-console.log("Win");
+return"Win";
 } else if(name == "Clement"){
 	return "We've found Clement";
 //console.log("on a trouvé clement")
 }
-else {console.log("oh no")}
+else {document.write ("jlgjk")}
+//document.getElementById("ffff").innerHTML=("oh yes")
+
 }
 
 
@@ -15,8 +17,6 @@ $(document).ready(function(){       // wait for rest of page to charge then char
 
 // stuff here
 
-alert(check_name("Clement"));
-
-$("#ScriptTests").html("<span class='red'>Hello <b>Again</b></span>")
+alert(check_name("dannn"));
 
 });
